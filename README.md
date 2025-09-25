@@ -39,4 +39,5 @@ This project demonstrates **HTML, CSS, and Font Awesome** usage to create a **re
 2. Open `index.html` in your browser.  
 3. Make sure all images are placed inside the `Images/` folder.  
 
-🔗 You can deploy this project easily using 
+🔗 You can deploy this project easily using :- https://sakshi72004.github.io/VEGFOODS/VegFood/
+
